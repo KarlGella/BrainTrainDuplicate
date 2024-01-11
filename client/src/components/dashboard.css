@@ -1,0 +1,20 @@
+ul.images {
+  list-style-type: none;
+}
+
+.section-two ul li {
+  display: inline;
+}
+
+.intro span img {
+  width: 45%;
+  margin-top: 10px;
+}
+
+.intro span h1 {
+  font-size: 30px;
+}
+
+.intro span p {
+  font-size: 100px;
+}
